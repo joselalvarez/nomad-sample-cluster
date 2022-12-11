@@ -1,4 +1,4 @@
-# Implementción de microservicio *Rust* con *Actix web framework* y orquestación dentro de cluster *Nomad*
+# Implementación de microservicio *Rust* con *Actix web framework* y orquestación dentro de cluster *Nomad*
 
 ![Nomad cluster](https://raw.githubusercontent.com/joselalvarez/nomad-sample-cluster/main/_img/cluster.png)
 
