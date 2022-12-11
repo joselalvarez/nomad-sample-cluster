@@ -1,0 +1,4 @@
+FROM rockylinux:9.0-minimal
+COPY ./config ./etc/prototype-service
+COPY ./target/release/prototype-service ./opt/prototype-service/app
+CMD ["/opt/prototype-service/app"]
